@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.AssemblyInfo.cs
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.sourcelink.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.exe
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.deps.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.runtimeconfig.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\bin\Debug\net8.0\Problema1y2.pdb
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\refint\Problema1y2.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.pdb
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\Problema1y2.genruntimeconfig.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema1y2\Problema1y2\obj\Debug\net8.0\ref\Problema1y2.dll
