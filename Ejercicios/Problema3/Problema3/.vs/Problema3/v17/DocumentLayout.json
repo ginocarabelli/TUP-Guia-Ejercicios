@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema3\\problema3\\problema3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|solutionrelative:problema3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema3\\problema3\\problema3\\interfaces\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|solutionrelative:problema3\\interfaces\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema3\\problema3\\problema3\\objetos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|solutionrelative:problema3\\objetos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema3\\problema3\\problema3\\objetos\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|solutionrelative:problema3\\objetos\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema3\\problema3\\problema3\\objetos\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B512A901-AA2E-434E-8FA8-C6DEC39F2F01}|Problema3\\Problema3.csproj|solutionrelative:problema3\\objetos\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Objetos\\Suelto.cs",
+              "RelativeDocumentMoniker": "Problema3\\Objetos\\Suelto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Objetos\\Suelto.cs",
+              "RelativeToolTip": "Problema3\\Objetos\\Suelto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:58:02.857Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Objetos\\Pack.cs",
+              "RelativeDocumentMoniker": "Problema3\\Objetos\\Pack.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Objetos\\Pack.cs",
+              "RelativeToolTip": "Problema3\\Objetos\\Pack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:50:41.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Objetos\\Producto.cs",
+              "RelativeDocumentMoniker": "Problema3\\Objetos\\Producto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Objetos\\Producto.cs",
+              "RelativeToolTip": "Problema3\\Objetos\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:47:24.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Interfaces\\IPrecio.cs",
+              "RelativeDocumentMoniker": "Problema3\\Interfaces\\IPrecio.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Interfaces\\IPrecio.cs",
+              "RelativeToolTip": "Problema3\\Interfaces\\IPrecio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:47:39.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Program.cs",
+              "RelativeDocumentMoniker": "Problema3\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema3\\Problema3\\Problema3\\Program.cs",
+              "RelativeToolTip": "Problema3\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:46:50.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

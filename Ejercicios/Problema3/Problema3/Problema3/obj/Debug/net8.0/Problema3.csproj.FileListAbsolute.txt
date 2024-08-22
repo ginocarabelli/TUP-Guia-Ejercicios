@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\bin\Debug\net8.0\Problema3.exe
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\bin\Debug\net8.0\Problema3.deps.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\bin\Debug\net8.0\Problema3.runtimeconfig.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\bin\Debug\net8.0\Problema3.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\bin\Debug\net8.0\Problema3.pdb
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\Problema3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\Problema3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\Problema3.AssemblyInfo.cs
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\Problema3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\Problema3.sourcelink.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\Problema3.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\refint\Problema3.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\Problema3.pdb
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\Problema3.genruntimeconfig.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejercicios\Problema3\Problema3\Problema3\obj\Debug\net8.0\ref\Problema3.dll
