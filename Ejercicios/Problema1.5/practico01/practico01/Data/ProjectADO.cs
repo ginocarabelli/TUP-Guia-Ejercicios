@@ -18,34 +18,32 @@ namespace practico01.Data
         {
             _connection = new SqlConnection(Properties.Resources.ConnectionString);
         }
-        public double CalcularPrecio()
-        {
-            throw new NotImplementedException();
-        }
-
         public bool Delete(int id)
         {
             throw new NotImplementedException();
         }
-
-        public List<Article> GetAll()
+        public List<Factura> GetAll()
         {
-            List<Article> lst = new List<Article>();
+            List<Factura> lst = new List<Factura>();
             var helper = DataHelper.GetInstance();
             DataTable t = helper.ExecuteSPQuery("SP_GetAll");
             foreach(DataRow row in t.Rows)
             {
-                int codigo = Convert.ToInt32(row["codigo"]);
-                string nombre = Convert.ToString(row["nombre"]);
-                double precioUnitario = Convert.ToDouble(row["precioUnitario"]);
+                int nroFactura = Convert.ToInt32(row["nroFactura"]);
+                DateTime fecha = Convert.ToDateTime(row["fecha"]);
+                FormaDePago formaPago = GetFPById((int)row["precioUnitario"]);
+                DetalleFactura detalleFactura = GetDFById((int)row["idDetallesFacturas"]);
+                string cliente = Convert.ToString(row["cliente"]);
 
-                Article oArticle = new Article()
+                Factura oFactura = new Factura()
                 {
-                    Codigo = codigo,
-                    Nombre = nombre,
-                    PrecioUnitario = precioUnitario
+                    NroFactura = nroFactura,
+                    Fecha = fecha,
+                    FormaPago = formaPago,
+                    Detalle = detalleFactura,
+                    Cliente = cliente
                 };
-                lst.Add(oArticle);
+                lst.Add(oFactura);
             }
             return lst;
         }
@@ -136,6 +134,11 @@ namespace practico01.Data
         }
 
         public bool Update(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool Save(Article oArticle)
         {
             throw new NotImplementedException();
         }

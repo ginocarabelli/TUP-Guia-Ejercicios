@@ -9,10 +9,9 @@ namespace practico01.Data
 {
     public interface IProject
     {
-        List<Article> GetAll();
-        double CalcularPrecio();
-        Article GetById(int id);
-        bool Save(Article oArticle);
+        List<Factura> GetAll();
+        Factura GetFacturaById(int id);
+        bool Save(Factura oFactura);
         bool Delete(int id);
         bool Update(int id);
 
