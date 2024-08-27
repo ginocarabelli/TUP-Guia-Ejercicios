@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\data\\projectado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\data\\iproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\data\\iproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\domain\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -46,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FormaDePago.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Domain\\FormaDePago.cs",
               "RelativeDocumentMoniker": "practico01\\Domain\\FormaDePago.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "practico01\\Domain\\FormaDePago.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T14:25:12.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T14:25:12.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DetalleFactura.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Domain\\DetalleFactura.cs",
               "RelativeDocumentMoniker": "practico01\\Domain\\DetalleFactura.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "practico01\\Domain\\DetalleFactura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T14:22:25.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T14:22:25.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Domain\\Factura.cs",
               "RelativeDocumentMoniker": "practico01\\Domain\\Factura.cs",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "practico01\\Domain\\Factura.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T14:19:08.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T14:19:08.17Z"
             },
             {
               "$type": "Document",
@@ -91,27 +88,27 @@
               "RelativeDocumentMoniker": "practico01\\Data\\ProjectADO.cs",
               "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Data\\ProjectADO.cs",
               "RelativeToolTip": "practico01\\Data\\ProjectADO.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T13:50:02.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IProject.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Data\\IProject.cs",
               "RelativeDocumentMoniker": "practico01\\Data\\IProject.cs",
               "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Data\\IProject.cs",
               "RelativeToolTip": "practico01\\Data\\IProject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T13:47:35.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Domain\\Article.cs",
               "RelativeDocumentMoniker": "practico01\\Domain\\Article.cs",
@@ -119,18 +116,17 @@
               "RelativeToolTip": "practico01\\Domain\\Article.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:45:57.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T13:45:57.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Data\\DataHelper.cs",
               "RelativeDocumentMoniker": "practico01\\Data\\DataHelper.cs",
               "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Data\\DataHelper.cs",
               "RelativeToolTip": "practico01\\Data\\DataHelper.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwEQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T13:37:15.134Z",
               "EditorCaption": ""
@@ -145,8 +141,7 @@
               "RelativeToolTip": "practico01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:35:50.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T13:35:50.958Z"
             }
           ]
         }

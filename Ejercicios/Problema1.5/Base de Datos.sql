@@ -1,6 +1,7 @@
 CREATE DATABASE Facturacion
+GO
 USE Facturacion
-
+GO
 CREATE TABLE Articulos(
 codigo int identity primary key,
 nombre varchar(50),
@@ -38,3 +39,19 @@ INSERT INTO FormasPagos VALUES('Debito')
 INSERT INTO Facturas VALUES('29/08/2024', 2, 1, 'Gino Carabelli')
 
 SET DATEFORMAT DMY
+
+CREATE PROCEDURE SP_GetAll
+AS
+BEGIN
+SELECT * 
+FROM Facturas
+END
+
+CREATE PROCEDURE SP_GetFacturasById
+	@codigo int
+AS
+BEGIN
+	SELECT *
+	FROM Facturas
+	WHERE nroFactura = @codigo
+END

@@ -12,11 +12,10 @@ namespace practico01.Data
 {
     public class ProjectADO : IProject
     {
-        private SqlConnection _connection;
+        Factura f;
 
         public ProjectADO()
         {
-            _connection = new SqlConnection(Properties.Resources.ConnectionString);
         }
         public bool Delete(int id)
         {
