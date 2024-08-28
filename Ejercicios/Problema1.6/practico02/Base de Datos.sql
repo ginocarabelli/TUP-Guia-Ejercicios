@@ -24,13 +24,13 @@ dni int,
 id_cuenta int,
 CONSTRAINT fk_id_cuenta FOREIGN KEY (id_cuenta) REFERENCES Cuentas(id_cuenta)
 )
-
+GO
 CREATE PROCEDURE SP_GetAllAccounts
 AS
 BEGIN
 SELECT * FROM Cuentas
 END
-
+GO
 CREATE PROCEDURE SP_GetAccountById
 	@codigo int
 AS
@@ -39,7 +39,7 @@ BEGIN
 	FROM Cuentas
 	WHERE id_cuenta = @codigo
 END
-
+GO
 CREATE PROCEDURE SP_GetAccountTypeById
 	@codigo int
 AS
@@ -48,6 +48,42 @@ BEGIN
 	FROM Tipos_Cuentas
 	WHERE id_tipo_cuenta = @codigo
 END
+GO
+CREATE PROCEDURE SP_CreateAccount
+	@codigo int,
+	@cbu varchar(50),
+	@saldo decimal(10,2),
+	@id_tipo_cuenta int,
+	@ultimo_movimiento datetime
+AS
+BEGIN
+INSERT INTO Cuentas VALUES(@codigo, @cbu, @saldo, @id_tipo_cuenta, @ultimo_movimiento)
+END
+GO
+CREATE PROCEDURE SP_DeleteAccount
+	@codigo int
+AS
+BEGIN
+	DELETE FROM Cuentas
+	WHERE id_cuenta = @codigo
+END
+GO
+CREATE PROCEDURE SP_UpdateAccount
+	@codigo int,
+	@cbu varchar(50),
+	@saldo decimal(10,2),
+	@id_tipo_cuenta int,
+	@ultimo_movimiento datetime
+AS
+BEGIN
+	UPDATE Cuentas
+	SET cbu = @cbu,
+	saldo = @saldo,
+	id_tipo_cuenta = @id_tipo_cuenta,
+	ultimo_movimiento = @ultimo_movimiento
+	WHERE id_cuenta = @codigo
+END
+	
 
 INSERT INTO Tipos_Cuentas VALUES('Cuenta Corriente')
 INSERT INTO Tipos_Cuentas VALUES('Caja de Ahorro')

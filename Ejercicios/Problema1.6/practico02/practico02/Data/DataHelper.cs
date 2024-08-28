@@ -49,28 +49,36 @@ namespace practico02.Data
             {
                 t = null;
             }
+            finally
+            {
+                _connection.Close();
+            }
             return t;
         }
-        public bool ExecuteCrudSPQuery(string sp, params SqlParameter[] parameters)
+        public int ExecuteCrudSPQuery(string sp, params SqlParameter[] parameters)
         {
-            bool x = false;
+            int affectedRows = 0;
             try
             {
                 _connection.Open();
                 var cmd = new SqlCommand(sp, _connection);
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.AddRange(parameters);
-                if (cmd.ExecuteNonQuery() != 0)
+                if (parameters != null)
                 {
-                    x = true;
+                    cmd.Parameters.AddRange(parameters);
                 }
+                affectedRows = cmd.ExecuteNonQuery();
                 _connection.Close();
             }
-            catch (SqlException)
+            catch (SqlException ex)
             {
-                x = false;
+                Console.WriteLine($"\nSQL Error: {ex.Message}");
             }
-            return x;
+            finally
+            {
+                _connection.Close();
+            }
+            return affectedRows;
         }
     }
 }

@@ -16,7 +16,6 @@ namespace practico02.Services
         {
             bankRepositoryADO = new BankRepositoryADO();
         }
-
         public List<Account> GetAllAccounts()
         {
             return bankRepositoryADO.GetAll();
@@ -24,6 +23,22 @@ namespace practico02.Services
         public Account GetAccountById(int id)
         {
             return bankRepositoryADO.GetAccountById(id);
+        }
+        public AccountType GetAccountType(int id)
+        {
+            return bankRepositoryADO.GetTypeAccount(id);
+        }
+        public bool CreateAccount(Account account)
+        {
+            return bankRepositoryADO.Save(account);
+        }
+        public bool DeleteAccount(int id)
+        {
+            return bankRepositoryADO.Delete(id);
+        }
+        public bool UpdateAccount(Account account)
+        {
+            return bankRepositoryADO.Update(account);
         }
     }
 }

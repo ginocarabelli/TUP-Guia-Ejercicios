@@ -12,8 +12,9 @@ namespace practico02.Data
         // metodos abstractos
         List<Account> GetAll();
         Account GetAccountById(int id);
-        bool Save(Account oCuenta);
+        bool ValidateId(int id);
+        bool Save(Account oAccount);
         bool Delete(int id);
-        bool Update(int id);
+        bool Update(Account oAccount);
     }
 }

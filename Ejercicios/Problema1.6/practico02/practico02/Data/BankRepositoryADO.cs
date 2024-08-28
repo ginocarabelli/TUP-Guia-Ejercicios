@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -59,19 +61,72 @@ namespace practico02.Data
             }
             return lst;
         }
-
-        public bool Save(Account oCuenta)
+        public bool ValidateId(int id)
         {
-            throw new NotImplementedException();
+            var helper = DataHelper.GetInstance();
+            DataTable table = helper.ExecuteSPQuery("SP_GetAccountById", new SqlParameter("@codigo", id));
+            if (table.Rows.Count != 0)
+            {
+                Console.WriteLine("Ya existe una cuenta con este código, por favor ingrese otro.");
+                return false;
+            }
+            return true;
+        }
+
+        public bool Save(Account oAccount)
+        {
+            var helper = DataHelper.GetInstance();
+            SqlParameter[] parameters =
+            [
+                new SqlParameter("@codigo", oAccount.IdCuenta),
+                new SqlParameter("@cbu", oAccount.Cbu),
+                new SqlParameter("@saldo", oAccount.Saldo),
+                new SqlParameter("@id_tipo_cuenta", oAccount.TipoDeCuenta.IdTipoCuenta),
+                new SqlParameter("@ultimo_movimiento", oAccount.UltimoMovimiento)
+            ];
+            if (ValidateId(oAccount.IdCuenta))
+            {
+                int result = helper.ExecuteCrudSPQuery("SP_CreateAccount", parameters);
+                if (result == 0)
+                {
+                    return false;
+                }
+                return true;
+            }
+            return false;
         }
         public bool Delete(int id)
         {
-            throw new NotImplementedException();
+            var helper = DataHelper.GetInstance();
+            SqlParameter[] parameters = new SqlParameter[]
+            {
+                new SqlParameter("@codigo", id)
+            };
+            int result = helper.ExecuteCrudSPQuery("SP_DeleteAccount", parameters);
+            if (result != 0)
+            {
+                return true;
+            }
+            return false;
         }
 
-        public bool Update(int id)
+        public bool Update(Account oAccount)
         {
-            throw new NotImplementedException();
+            var helper = DataHelper.GetInstance();
+            SqlParameter[] parameters = new SqlParameter[]
+            {
+                new SqlParameter("@codigo", oAccount.IdCuenta),
+                new SqlParameter("@cbu", oAccount.Cbu),
+                new SqlParameter("@saldo", oAccount.Saldo),
+                new SqlParameter("@id_tipo_cuenta", oAccount.TipoDeCuenta.IdTipoCuenta),
+                new SqlParameter("@ultimo_movimiento", oAccount.UltimoMovimiento)
+            };
+            int result = helper.ExecuteCrudSPQuery("SP_UpdateAccount", parameters);
+            if (result != 0)
+            {
+                return true;
+            }
+            return false;
         }
     }
 }
