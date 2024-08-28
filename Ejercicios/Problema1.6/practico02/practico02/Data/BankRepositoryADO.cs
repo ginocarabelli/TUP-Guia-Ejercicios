@@ -72,7 +72,6 @@ namespace practico02.Data
             }
             return true;
         }
-
         public bool Save(Account oAccount)
         {
             var helper = DataHelper.GetInstance();
