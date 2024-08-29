@@ -1,6 +1,6 @@
-CREATE DATABASE Facturacion
+CREATE DATABASE Billing
 GO
-USE Facturacion
+USE Billing
 GO
 CREATE TABLE Articles(
 article_id int identity primary key,
@@ -43,16 +43,26 @@ GO
 CREATE PROCEDURE SP_GetAll
 AS
 BEGIN
-	SELECT * 
-	FROM Bills
+	SELECT invoice_id AS INVOICE_ID, invoice_date AS INVOICE_DATE,
+	pf.payment_form_id AS PAYMENT_FORM_ID, pf.payment_form AS PAYMENT_FORM,
+	id.invoice_details_id AS INVOICE_DETAILS_ID,
+	a.article_id AS ARTICLE_ID, a.article_name AS ARTICLE_NAME, a.unit_price AS UNIT_PRICE,
+	client as CLIENT
+	FROM Bills b
+	JOIN PaymentForms pf ON pf.payment_form_id = b.payment_form_id
+	JOIN InvoiceDetails id ON id.invoice_details_id = b.invoice_details_id
+	JOIN Articles a ON a.article_id = id.article_id
 END
 GO
 CREATE PROCEDURE SP_GetInvoiceDetailsById
 	@ID int
 AS
 BEGIN
-	SELECT *
-	FROM InvoiceDetails
+	SELECT invoice_details_id AS INVOICE_DETAILS_ID,
+	a.article_id AS ARTICLE_ID , a.article_name AS ARTICLE_NAME, a.unit_price AS UNIT_PRICE,
+	cantidad AS QUANTITY
+	FROM InvoiceDetails id
+	JOIN Articles a ON a.article_id = id.article_id
 	WHERE invoice_details_id = @ID
 END
 GO
@@ -65,11 +75,27 @@ BEGIN
 	WHERE payment_form_id = @ID
 END
 GO
+CREATE PROCEDURE SP_GetArticleById
+	@ID int
+AS
+BEGIN
+	SELECT a.article_id AS ARTICLE_ID, a.article_name AS ARTICLE_NAME, a.unit_price AS UNIT_PRICE
+	FROM Articles a
+	WHERE article_id = @ID
+END
+GO
 CREATE PROCEDURE SP_GetInvoiceById
 	@ID int
 AS
 BEGIN
-	SELECT *
-	FROM Bills
+	SELECT invoice_id AS INVOICE_ID, invoice_date AS INVOICE_DATE,
+	pf.payment_form_id as PAYMENT_FORM_ID, pf.payment_form AS PAYMENT_FORM_NAME, 
+	id.invoice_details_id AS INVOICE_DETAILS_ID, id.cantidad AS QUANTITY,
+	a.article_id AS ARTICLE_ID, a.article_name AS ARTICLE_NAME, a.unit_price AS UNIT_PRICE,
+	client
+	FROM Bills b
+	JOIN PaymentForms pf ON pf.payment_form_id = b.payment_form_id
+	JOIN InvoiceDetails id ON id.invoice_details_id = b.invoice_details_id
+	JOIN Articles a ON a.article_id = id.invoice_details_id
 	WHERE invoice_id = @ID
 END

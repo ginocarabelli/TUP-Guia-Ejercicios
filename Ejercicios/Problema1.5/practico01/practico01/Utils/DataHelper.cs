@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace practico01.Data
+namespace practico01.Utils
 {
     public class DataHelper
     {
@@ -20,7 +20,7 @@ namespace practico01.Data
 
         public static DataHelper GetInstance() // Patrón singleton para evitar que se genere múltiples veces el DataHelper
         {
-            if(_instancia == null)
+            if (_instancia == null)
             {
                 _instancia = new DataHelper();
             }
@@ -34,7 +34,7 @@ namespace practico01.Data
                 _connection.Open();
                 var cmd = new SqlCommand(sp, _connection);
                 cmd.CommandType = CommandType.StoredProcedure;
-                if(parameters != null)
+                if (parameters != null)
                 {
                     cmd.Parameters.AddRange(parameters);
                 }
@@ -56,7 +56,7 @@ namespace practico01.Data
                 var cmd = new SqlCommand(sp, _connection);
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddRange(parameters);
-                if(cmd.ExecuteNonQuery() != 0)
+                if (cmd.ExecuteNonQuery() != 0)
                 {
                     x = true;
                 }

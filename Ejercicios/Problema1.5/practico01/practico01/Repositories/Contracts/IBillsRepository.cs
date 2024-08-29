@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace practico01.Data
+namespace practico01.Repositories.Contracts
 {
-    public interface IProject
+    public interface IBillsRepository
     {
-        List<Factura> GetAll();
-        Factura GetFacturaById(int id);
-        bool Save(Factura oFactura);
+        List<Invoice> GetAll();
+        Invoice GetInvoiceById(int id);
+        bool Save(Invoice oFactura);
         bool Delete(int id);
         bool Update(int id);
 

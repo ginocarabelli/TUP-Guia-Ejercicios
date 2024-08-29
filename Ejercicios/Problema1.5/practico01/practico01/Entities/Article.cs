@@ -9,13 +9,13 @@ namespace practico01.Domain
 {
     public class Article
     {
-        public int Codigo { get; set; }
-        public string Nombre { get; set; }
-        public double PrecioUnitario { get; set; }
+        public int ArticleID { get; set; }
+        public string ArticleName { get; set; }
+        public double UnitPrice { get; set; }
 
         public override string ToString()
         {
-            return $"[{Codigo}, {Nombre}, {PrecioUnitario}]";
+            return $"[{ArticleID}, {ArticleName}, {UnitPrice}]";
         }
     }
 }

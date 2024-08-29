@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace practico01.Domain
 {
-    public class FormaDePago
+    public class PaymentForm
     {
-        public int IdFormaPago { get; set; }
-        public string Nombre { get; set; }
+        public int PaymentFormId { get; set; }
+        public string PaymentFormName { get; set; }
 
         public override string ToString()
         {
-            return Nombre;
+            return PaymentFormName;
         }
     }
 }
