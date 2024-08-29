@@ -1,5 +1,5 @@
-﻿using practico01.Data;
-using practico01.Domain;
+﻿using practico01.Domain;
+using practico01.Repositories.Implementations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,30 +10,30 @@ namespace practico01.Services
 {
     public class BillsManager
     {
-        ProjectADO pADO;
+        BillsRepository bRepo;
         public BillsManager()
         {
-            pADO = new ProjectADO();
+            bRepo = new BillsRepository();
         }
-        public List<Invoice> GetAllBills()
+        public List<Invoice> GetAll()
         {
-            return pADO.GetAll();
+            return bRepo.GetAll();
         }
         public Invoice GetInvoiceById(int id)
         {
-            return pADO.GetInvoiceById(id);
+            return bRepo.GetInvoiceById(id);
         }
-        public Article GetArticleById(int id)
+        public bool Save(Invoice oInvoice)
         {
-            return pADO.GetArticleById(id);
+            return bRepo.Save(oInvoice);
         }
-        public InvoiceDetail GetInvoiceDetailById(int id)
+        public bool Update(Invoice oInvoice)
         {
-            return pADO.GetInvoiceDetailsById(id);
+            return bRepo.Update(oInvoice);
         }
-        public PaymentForm GetPaymentFormById(int id)
+        public bool Delete(int id)
         {
-            return pADO.GetPaymentFormById(id);
+            return bRepo.Delete(id);
         }
     }
 }

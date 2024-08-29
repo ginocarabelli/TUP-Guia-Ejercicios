@@ -11,9 +11,9 @@ namespace practico01.Repositories.Contracts
     {
         List<Invoice> GetAll();
         Invoice GetInvoiceById(int id);
-        bool Save(Invoice oFactura);
+        bool Save(Invoice oInvoice);
         bool Delete(int id);
-        bool Update(int id);
+        bool Update(Invoice oInvoice);
 
     }
 }

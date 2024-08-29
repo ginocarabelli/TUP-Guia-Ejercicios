@@ -61,7 +61,7 @@ namespace practico01.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a Data Source=(localdb)\FacuGino;Initial Catalog=Facturacion;Integrated Security=True.
+        ///   Busca una cadena traducida similar a Data Source=(localdb)\FacuGino;Initial Catalog=Billing;Integrated Security=True.
         /// </summary>
         internal static string ConnectionString {
             get {

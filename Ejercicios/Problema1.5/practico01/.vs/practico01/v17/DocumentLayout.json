@@ -1,58 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\",
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\implementations\\paymentformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\implementations\\paymentformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\implementations\\billdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\implementations\\billdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\implementations\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\implementations\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\implementations\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\implementations\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\data\\projectado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\data\\projectado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\contracts\\ipaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\contracts\\ipaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\contracts\\ibillsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\contracts\\ibillsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\contracts\\ibillsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\contracts\\ibilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\contracts\\ibilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\implementations\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\implementations\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\contracts\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\contracts\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\services\\billsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\services\\billsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\services\\billsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\entities\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\entities\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\contracts\\ibilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\contracts\\ibilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\repositories\\contracts\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\repositories\\contracts\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\problema1.5\\practico01\\practico01\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C4CEC2-29E9-45EF-8E4F-6640726648A4}|practico01\\practico01.csproj|solutionrelative:practico01\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,179 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BillDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\BillDetailRepository.cs",
-              "RelativeDocumentMoniker": "practico01\\Repositories\\Implementations\\BillDetailRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\BillDetailRepository.cs",
-              "RelativeToolTip": "practico01\\Repositories\\Implementations\\BillDetailRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:11:52.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PaymentFormRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\PaymentFormRepository.cs",
-              "RelativeDocumentMoniker": "practico01\\Repositories\\Implementations\\PaymentFormRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\PaymentFormRepository.cs",
-              "RelativeToolTip": "practico01\\Repositories\\Implementations\\PaymentFormRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:11:05.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectADO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Data\\ProjectADO.cs",
-              "RelativeDocumentMoniker": "practico01\\Data\\ProjectADO.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Data\\ProjectADO.cs",
-              "RelativeToolTip": "practico01\\Data\\ProjectADO.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:08:44.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\ArticleRepository.cs",
-              "RelativeDocumentMoniker": "practico01\\Repositories\\Implementations\\ArticleRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\ArticleRepository.cs",
-              "RelativeToolTip": "practico01\\Repositories\\Implementations\\ArticleRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Program.cs",
+              "RelativeDocumentMoniker": "practico01\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Program.cs",
+              "RelativeToolTip": "practico01\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAIAwwEAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:06:47.982Z",
+              "WhenOpened": "2024-08-27T13:35:50.958Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BillsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\BillsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\BillsRepository.cs",
               "RelativeDocumentMoniker": "practico01\\Repositories\\Implementations\\BillsRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\BillsRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Implementations\\BillsRepository.cs",
               "RelativeToolTip": "practico01\\Repositories\\Implementations\\BillsRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAcAAAA",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:32:03.888Z",
+              "WhenOpened": "2024-08-29T21:31:41.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IPaymentForm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IPaymentForm.cs",
-              "RelativeDocumentMoniker": "practico01\\Repositories\\Contracts\\IPaymentForm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IPaymentForm.cs",
-              "RelativeToolTip": "practico01\\Repositories\\Contracts\\IPaymentForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Entities\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "practico01\\Entities\\InvoiceDetail.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Entities\\InvoiceDetail.cs",
+              "RelativeToolTip": "practico01\\Entities\\InvoiceDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:31:43.369Z",
+              "WhenOpened": "2024-08-29T22:58:27.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "practico01\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Entities\\Invoice.cs",
+              "RelativeToolTip": "practico01\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:26:28.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IBillDetail.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IBillDetail.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IBillDetail.cs",
               "RelativeDocumentMoniker": "practico01\\Repositories\\Contracts\\IBillDetail.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IBillDetail.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IBillDetail.cs",
               "RelativeToolTip": "practico01\\Repositories\\Contracts\\IBillDetail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T03:29:05.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "IArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IArticleRepository.cs",
               "RelativeDocumentMoniker": "practico01\\Repositories\\Contracts\\IArticleRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IArticleRepository.cs",
               "RelativeToolTip": "practico01\\Repositories\\Contracts\\IArticleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T03:28:35.455Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BillsManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Services\\BillsManager.cs",
-              "RelativeDocumentMoniker": "practico01\\Services\\BillsManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Services\\BillsManager.cs",
-              "RelativeToolTip": "practico01\\Services\\BillsManager.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:16:58.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "IBillsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IBillsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IBillsRepository.cs",
               "RelativeDocumentMoniker": "practico01\\Repositories\\Contracts\\IBillsRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IBillsRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Repositories\\Contracts\\IBillsRepository.cs",
               "RelativeToolTip": "practico01\\Repositories\\Contracts\\IBillsRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T13:47:35.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Entities\\Article.cs",
-              "RelativeDocumentMoniker": "practico01\\Entities\\Article.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Entities\\Article.cs",
-              "RelativeToolTip": "practico01\\Entities\\Article.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:45:57.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "DataHelper.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Utils\\DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Utils\\DataHelper.cs",
               "RelativeDocumentMoniker": "practico01\\Utils\\DataHelper.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Utils\\DataHelper.cs",
               "RelativeToolTip": "practico01\\Utils\\DataHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T13:37:15.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Program.cs",
-              "RelativeDocumentMoniker": "practico01\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Program.cs",
-              "RelativeToolTip": "practico01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BillsManager.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Services\\BillsManager.cs",
+              "RelativeDocumentMoniker": "practico01\\Services\\BillsManager.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Services\\BillsManager.cs",
+              "RelativeToolTip": "practico01\\Services\\BillsManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAhwCMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:35:50.958Z"
+              "WhenOpened": "2024-08-29T21:29:55.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "practico01\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Problema1.5\\practico01\\practico01\\Entities\\Article.cs",
+              "RelativeToolTip": "practico01\\Entities\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:45:57.916Z"
             }
           ]
         }

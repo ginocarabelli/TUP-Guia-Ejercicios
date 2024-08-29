@@ -56,7 +56,7 @@ namespace practico01.Repositories.Implementations
         {
             Invoice oInvoice = new Invoice();
             var helper = DataHelper.GetInstance();
-            DataTable t = helper.ExecuteSPQuery("SP_GetById", new SqlParameter("@ID", id));
+            DataTable t = helper.ExecuteSPQuery("SP_GetInvoiceById", new SqlParameter("@ID", id));
             if (t.Rows.Count > 0)
             {
                 DataRow row = t.Rows[0];
@@ -89,18 +89,44 @@ namespace practico01.Repositories.Implementations
             }
             return oInvoice;
         }
-        public bool Save(Invoice oFactura)
+        public bool Save(Invoice oInvoice)
         {
-            throw new NotImplementedException();
+            var helper = DataHelper.GetInstance();
+            SqlParameter[] parameters = new SqlParameter[]
+            {
+                new SqlParameter("@ID", oInvoice.InvoiceId),
+                new SqlParameter("@INVOICE_DATE", oInvoice.InvoiceDate),
+                new SqlParameter("@PAYMENT_FORM_ID", oInvoice.PForm.PaymentFormId),
+                new SqlParameter("@INVOICE_DETAIL_ID", oInvoice.Detail.InvoiceDetailsID),
+                new SqlParameter("@CLIENT", oInvoice.Client)
+            };
+            bool result = helper.ExecuteCrudSPQuery("SP_SaveInvoice", parameters);
+            return result;
         }
 
-        public bool Update(int id)
+        public bool Update(Invoice oInvoice)
         {
-            throw new NotImplementedException();
+            var helper = DataHelper.GetInstance();
+            SqlParameter[] parameters = new SqlParameter[]
+            {
+                new SqlParameter("@ID", oInvoice.InvoiceId),
+                new SqlParameter("@INVOICE_DATE", oInvoice.InvoiceDate),
+                new SqlParameter("@PAYMENT_FORM_ID", oInvoice.PForm.PaymentFormId),
+                new SqlParameter("@INVOICE_DETAIL_ID", oInvoice.Detail.InvoiceDetailsID),
+                new SqlParameter("@CLIENT", oInvoice.Client)
+            };
+            bool result = helper.ExecuteCrudSPQuery("SP_UpdateInvoice", parameters);
+            return result;
         }
         public bool Delete(int id)
         {
-            throw new NotImplementedException();
+            var helper = DataHelper.GetInstance();
+            SqlParameter[] parameters = new SqlParameter[]
+            {
+                new SqlParameter("@ID", id),
+            };
+            bool result = helper.ExecuteCrudSPQuery("SP_DeleteInvoice", parameters);
+            return result;
         }
 
     }
