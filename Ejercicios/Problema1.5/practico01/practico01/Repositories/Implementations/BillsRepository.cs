@@ -89,18 +89,33 @@ namespace practico01.Repositories.Implementations
             }
             return oInvoice;
         }
-        public bool Save(Invoice oInvoice)
+        public bool Validate(int id)
         {
             var helper = DataHelper.GetInstance();
-            SqlParameter[] parameters = new SqlParameter[]
+            DataTable table = helper.ExecuteSPQuery("SP_GetInvoiceById", new SqlParameter("@ID", id));
+            if(table.Rows.Count > 0)
             {
+                Console.WriteLine("El código de esta factura ya existe, ingrese otro");
+                return true;
+            }
+            return false;
+        }
+        public bool Save(Invoice oInvoice)
+        {
+            bool result = false;
+            if (!Validate(oInvoice.InvoiceId))
+            {
+                var helper = DataHelper.GetInstance();
+                SqlParameter[] parameters = new SqlParameter[]
+                {
                 new SqlParameter("@ID", oInvoice.InvoiceId),
                 new SqlParameter("@INVOICE_DATE", oInvoice.InvoiceDate),
                 new SqlParameter("@PAYMENT_FORM_ID", oInvoice.PForm.PaymentFormId),
                 new SqlParameter("@INVOICE_DETAIL_ID", oInvoice.Detail.InvoiceDetailsID),
                 new SqlParameter("@CLIENT", oInvoice.Client)
-            };
-            bool result = helper.ExecuteCrudSPQuery("SP_SaveInvoice", parameters);
+                };
+                result = helper.ExecuteCrudSPQuery("SP_SaveInvoice", parameters);
+            }
             return result;
         }
 

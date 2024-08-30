@@ -10,14 +10,26 @@ namespace practico01.Services
 {
     public class InvoiceDetailsManager
     {
-        InvoiceDetailRepository bdRepo;
+        InvoiceDetailRepository idRepo;
         public InvoiceDetailsManager()
         {
-            bdRepo = new InvoiceDetailRepository();
+            idRepo = new InvoiceDetailRepository();
         }
         public InvoiceDetail GetInvoiceDetailById(int id)
         {
-            return bdRepo.GetInvoiceDetailsById(id);
+            return idRepo.GetInvoiceDetailsById(id);
+        }
+        public bool Save(InvoiceDetail oInvoiceDetail)
+        {
+            return idRepo.Save(oInvoiceDetail);
+        }
+        public bool Update(InvoiceDetail oInvoiceDetail)
+        {
+            return idRepo.Update(oInvoiceDetail);
+        }
+        public bool Delete(int id)
+        {
+            return idRepo.Delete(id);
         }
     }
 }

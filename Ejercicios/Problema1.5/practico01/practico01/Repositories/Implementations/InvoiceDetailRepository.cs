@@ -36,5 +36,55 @@ namespace practico01.Repositories.Implementations
             }
             return oInvoiceDetail;
         }
+        public bool Validate(int id)
+        {
+            var helper = DataHelper.GetInstance();
+            DataTable table = helper.ExecuteSPQuery("SP_GetInvoiceDetailsById", new SqlParameter("@ID", id));
+            if (table.Rows.Count > 0)
+            {
+                Console.WriteLine("El código de este detalle factura ya existe, ingrese otro");
+                return true;
+            }
+            return false;
+        }
+        public bool Save(InvoiceDetail oInvoiceDetail)
+        {
+            bool result = false;
+            if (!Validate(oInvoiceDetail.InvoiceDetailsID))
+            {
+                var helper = DataHelper.GetInstance();
+                SqlParameter[] parameters = new SqlParameter[]
+                {
+                new SqlParameter("@ID", oInvoiceDetail.InvoiceDetailsID),
+                new SqlParameter("@ARTICLE_ID", oInvoiceDetail.Article.ArticleID),
+                new SqlParameter("@QUANTITY", oInvoiceDetail.Quantity)
+                };
+                result = helper.ExecuteCrudSPQuery("SP_CreateInvoiceDetails", parameters);
+            }
+            return result;
+        }
+        public bool Update(InvoiceDetail oInvoiceDetail)
+        {
+            var helper = DataHelper.GetInstance();
+            SqlParameter[] parameters = new SqlParameter[]
+            {
+                new SqlParameter("@ID", oInvoiceDetail.InvoiceDetailsID),
+                new SqlParameter("@ARTICLE_ID", oInvoiceDetail.Article.ArticleID),
+                new SqlParameter("@QUANTITY", oInvoiceDetail.Quantity)
+            };
+            bool result = helper.ExecuteCrudSPQuery("SP_UpdateInvoiceDetails", parameters);
+            return result;
+        }
+        public bool Delete(int id)
+        {
+            var helper = DataHelper.GetInstance();
+            SqlParameter[] parameters = new SqlParameter[]
+            {
+                new SqlParameter("@ID", id),
+            };
+            bool result = helper.ExecuteCrudSPQuery("SP_DeleteInvoiceDetails", parameters);
+            return result;
+        }
+
     }
 }

@@ -14,6 +14,6 @@ namespace practico01.Repositories.Contracts
         bool Save(Invoice oInvoice);
         bool Delete(int id);
         bool Update(Invoice oInvoice);
-
+        bool Validate(int id);
     }
 }
