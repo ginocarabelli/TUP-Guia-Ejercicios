@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670B8394-0947-4E48-9660-6C034FDC59F7}|Problema2\\Problema2.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 2\\problema2\\problema2\\controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670B8394-0947-4E48-9660-6C034FDC59F7}|Problema2\\Problema2.csproj|solutionrelative:problema2\\controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670B8394-0947-4E48-9660-6C034FDC59F7}|Problema2\\Problema2.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 2\\problema2\\problema2\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670B8394-0947-4E48-9660-6C034FDC59F7}|Problema2\\Problema2.csproj|solutionrelative:problema2\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema2\\Problema2\\Controllers\\CashController.cs",
+              "RelativeDocumentMoniker": "Problema2\\Controllers\\CashController.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema2\\Problema2\\Controllers\\CashController.cs*",
+              "RelativeToolTip": "Problema2\\Controllers\\CashController.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:58:01.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moneda.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema2\\Problema2\\Models\\Moneda.cs",
+              "RelativeDocumentMoniker": "Problema2\\Models\\Moneda.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema2\\Problema2\\Models\\Moneda.cs",
+              "RelativeToolTip": "Problema2\\Models\\Moneda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:56:17.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

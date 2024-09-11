@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B97ACC51-6A6A-48CB-A2F4-A451FD7BDCAA}|Problema4\\Problema4.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 2\\problema4\\problema4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97ACC51-6A6A-48CB-A2F4-A451FD7BDCAA}|Problema4\\Problema4.csproj|solutionrelative:problema4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97ACC51-6A6A-48CB-A2F4-A451FD7BDCAA}|Problema4\\Problema4.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 2\\problema4\\problema4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97ACC51-6A6A-48CB-A2F4-A451FD7BDCAA}|Problema4\\Problema4.csproj|solutionrelative:problema4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema4\\Problema4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Problema4\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema4\\Problema4\\Models\\Product.cs",
+              "RelativeToolTip": "Problema4\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:40:53.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema4\\Problema4\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Problema4\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 2\\Problema4\\Problema4\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Problema4\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:40:40.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
