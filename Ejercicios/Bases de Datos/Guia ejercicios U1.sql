@@ -262,3 +262,94 @@ from facturas f
 where f.nro_factura between 5 and 30
 group by f.cod_vendedor, f.cod_cliente
 order by f.cod_vendedor, count(f.nro_factura), f.cod_cliente desc
+
+--HAVING
+--Se necesita saber el importe total de cada factura, pero solo aquellas donde 
+--ese importe total sea superior a 2500.
+SELECT f.nro_factura,
+SUM(cantidad*pre_unitario) 'Importe total'
+FROM facturas f
+JOIN detalle_facturas df on df.nro_factura = f.nro_factura
+GROUP BY f.nro_factura
+HAVING SUM(cantidad*pre_unitario) > 2500
+ORDER BY f.nro_factura
+
+--Se desea un listado de vendedores y sus importes de ventas del año 2017 
+--pero solo aquellos que vendieron menos de $ 17.000.- en dicho año. 
+SELECT v.nom_vendedor + ' ' + v.ape_vendedor 'Vendedor',
+SUM(pre_unitario*cantidad) 'Ventas totales'
+FROM facturas f
+JOIN detalle_facturas df on df.nro_factura = f.nro_factura
+JOIN vendedores v on v.cod_vendedor = f.cod_vendedor
+WHERE YEAR(fecha) = 2017
+GROUP BY v.nom_vendedor, v.ape_vendedor
+HAVING SUM(pre_unitario*cantidad) < 17000
+
+--Se quiere saber la fecha de la primera venta, la cantidad total vendida y el 
+--importe total vendido por vendedor para los casos en que el promedio de 
+--la cantidad vendida sea inferior o igual a 56. 
+SELECT v.cod_vendedor,
+MIN(fecha) 'primera venta',
+SUM(cantidad) as CantidadVendida,
+SUM(cantidad*pre_unitario) 'importe total'
+FROM detalle_facturas df
+JOIN facturas f on f.nro_factura = df.nro_factura
+JOIN vendedores v on v.cod_vendedor = f.cod_vendedor
+GROUP BY v.cod_vendedor, df.cantidad
+HAVING AVG(df.cantidad) <= 56
+
+--Se necesita un listado que informe sobre el monto máximo, mínimo y total 
+--que gastó en esta librería cada cliente el año pasado, pero solo donde el 
+--importe total gastado por esos clientes esté entre 300 y 800. REVISAR
+SELECT f.cod_cliente,
+fecha,
+MAX(df.cantidad*df.pre_unitario) 'monto máximo',
+MIN(df.cantidad*df.pre_unitario) 'monto mínimo',
+SUM(df.cantidad*df.pre_unitario) 'gasto total en la librería'
+FROM facturas f
+JOIN detalle_facturas df on df.nro_factura = f.nro_factura
+WHERE YEAR(fecha) = YEAR(getdate())-1
+GROUP BY  cod_cliente, fecha
+HAVING SUM(cantidad*pre_unitario) between 300 and 800
+ORDER BY cod_cliente
+
+--Muestre la cantidad facturas diarias por vendedor; para los casos en que 
+--esa cantidad sea 2 o más.
+SELECT DAY(fecha) 'Día',
+COUNT(f.nro_factura) 'cantidad facturas diarias',
+f.cod_vendedor
+FROM facturas f
+GROUP BY DAY(fecha), f.cod_vendedor
+HAVING COUNT(f.nro_factura) >= 2
+
+--Desde la administración se solicita un reporte que muestre el precio 
+--promedio, el importe total y el promedio del importe vendido por artículo 
+--que no comiencen con “c”, que su cantidad total vendida sea 100 o más o 
+--que ese importe total vendido sea superior a 700. REVISAR DUDAS
+SELECT df.cod_articulo,
+AVG(df.pre_unitario) 'precio promedio',
+SUM(df.pre_unitario*cantidad) 'importe total',
+AVG(df.pre_unitario*cantidad) 'promedio del importe total'
+FROM facturas f
+JOIN detalle_facturas df on df.nro_factura = f.nro_factura
+JOIN articulos a on a.cod_articulo = df.cod_articulo
+WHERE a.descripcion not like 'C%'
+GROUP BY df.cod_articulo
+HAVING SUM(cantidad) >= 100
+OR SUM(a.pre_unitario*cantidad) > 700
+
+--Muestre en un listado la cantidad total de artículos vendidos, el importe 
+--total y la fecha de la primer y última venta por cada cliente, para lo 
+--números de factura que no sean los siguientes: 2, 12, 20, 17, 30 y que el 
+--promedio de la cantidad vendida oscile entre 2 y 6. REVISAR
+SELECT f.cod_cliente,
+SUM(cantidad) 'cantidad de art. vendidos',
+SUM(cantidad*pre_unitario) 'importe total',
+MIN(fecha) 'primera venta',
+MAX(fecha) 'ultima venta'
+FROM facturas f
+join detalle_facturas df on df.nro_factura = f.nro_factura
+WHERE f.nro_factura not in (2,12,20,17,30)
+GROUP BY f.cod_cliente
+HAVING AVG(df.cantidad) between 2 and 6
+ORDER BY f.cod_cliente
