@@ -9,7 +9,11 @@ namespace Problema4.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        private static List<Product> lst;
+        private static List<Product> lst = new List<Product>()
+        {
+            new Product(1, "Coca cola", 1500.00),
+            new Product(2, "Alfajor Rasta", 1500.00)
+        };
         // GET: api/<ProductController>
         [HttpGet]
         public IActionResult Get()
@@ -35,6 +39,14 @@ namespace Problema4.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] Product producto)
         {
+            foreach(Product x in lst)
+            {
+                if (x.Codigo.Equals(producto.Codigo))
+                {
+                    return BadRequest("El código de este producto ya existe");
+                }
+            }
+            lst.Add(producto);
             return Ok("Agregado correctamente");
         }
 
@@ -42,19 +54,29 @@ namespace Problema4.Controllers
         [HttpPut]
         public IActionResult Put([FromBody] Product producto)
         {
+            foreach (Product x in lst)
+            {
+                if (x.Codigo.Equals(producto.Codigo))
+                {
+                    x.Nombre = producto.Nombre;
+                    x.Precio = producto.Precio;
+                }
+                else
+                {
+                    return BadRequest("No existe este producto");
+                }
+            }
             return Ok("Editado correctamente");
         }
 
         // DELETE api/<ProductController>/5
-        [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        [HttpDelete("{codigo}")]
+        public IActionResult Delete(int codigo)
         {
-            foreach(Product x in lst)
+            var productToRemove = lst.RemoveAll(p => p.Codigo == codigo);
+            if(productToRemove == null)
             {
-                if (x.Codigo.Equals(id))
-                {
-                    lst.RemoveAt(id + 1);
-                }
+                return BadRequest("Este producto no existe");
             }
             return Ok("Eliminado correctamente");
         }
