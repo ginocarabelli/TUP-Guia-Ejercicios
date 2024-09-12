@@ -302,15 +302,14 @@ HAVING AVG(df.cantidad) <= 56
 --que gastó en esta librería cada cliente el año pasado, pero solo donde el 
 --importe total gastado por esos clientes esté entre 300 y 800. REVISAR
 SELECT f.cod_cliente,
-fecha,
 MAX(df.cantidad*df.pre_unitario) 'monto máximo',
 MIN(df.cantidad*df.pre_unitario) 'monto mínimo',
 SUM(df.cantidad*df.pre_unitario) 'gasto total en la librería'
 FROM facturas f
 JOIN detalle_facturas df on df.nro_factura = f.nro_factura
 WHERE YEAR(fecha) = YEAR(getdate())-1
-GROUP BY  cod_cliente, fecha
-HAVING SUM(cantidad*pre_unitario) between 300 and 800
+GROUP BY  cod_cliente
+HAVING SUM(cantidad*pre_unitario) between 3000 and 80000
 ORDER BY cod_cliente
 
 --Muestre la cantidad facturas diarias por vendedor; para los casos en que 
@@ -344,6 +343,7 @@ OR SUM(a.pre_unitario*cantidad) > 700
 --promedio de la cantidad vendida oscile entre 2 y 6. REVISAR
 SELECT f.cod_cliente,
 SUM(cantidad) 'cantidad de art. vendidos',
+AVG(cantidad) 'cantidad de art. vendidos',
 SUM(cantidad*pre_unitario) 'importe total',
 MIN(fecha) 'primera venta',
 MAX(fecha) 'ultima venta'
@@ -351,5 +351,5 @@ FROM facturas f
 join detalle_facturas df on df.nro_factura = f.nro_factura
 WHERE f.nro_factura not in (2,12,20,17,30)
 GROUP BY f.cod_cliente
-HAVING AVG(df.cantidad) between 2 and 6
+HAVING AVG(df.cantidad) between 2 and 60
 ORDER BY f.cod_cliente
