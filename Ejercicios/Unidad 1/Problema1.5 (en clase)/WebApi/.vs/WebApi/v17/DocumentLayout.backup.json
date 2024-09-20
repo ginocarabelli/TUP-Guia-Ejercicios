@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA27C03E-CA82-4DAE-BA66-1581B271B241}|ProduccionWebApi\\ProduccionWebApi.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (en clase)\\webapi\\produccionwebapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA27C03E-CA82-4DAE-BA66-1581B271B241}|ProduccionWebApi\\ProduccionWebApi.csproj|solutionrelative:produccionwebapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (en clase)\\webapi\\produccionback\\services\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\services\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (en clase)\\webapi\\produccionback\\contracts\\implementations\\articlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\contracts\\implementations\\articlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (en clase)\\webapi\\produccionback\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (en clase)\\webapi\\produccionback\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (en clase)\\webapi\\produccionback\\contracts\\interfaces\\iarticlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C694A95-9322-4779-9D40-5FEC0850E8E1}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\contracts\\interfaces\\iarticlesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionWebApi\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "ProduccionWebApi\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionWebApi\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "ProduccionWebApi\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:46:53.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleManager.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Services\\ArticleManager.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Services\\ArticleManager.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Services\\ArticleManager.cs",
+              "RelativeToolTip": "ProduccionBack\\Services\\ArticleManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:41:17.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticlesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Contracts\\Implementations\\ArticlesRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Contracts\\Implementations\\ArticlesRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Contracts\\Implementations\\ArticlesRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Contracts\\Implementations\\ArticlesRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAtwDgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:52:12.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticlesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Contracts\\Interfaces\\IArticlesRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Contracts\\Interfaces\\IArticlesRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Contracts\\Interfaces\\IArticlesRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Contracts\\Interfaces\\IArticlesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:40:55.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Entities\\Article.cs",
+              "RelativeToolTip": "ProduccionBack\\Entities\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:09:51.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (en clase)\\WebApi\\ProduccionBack\\Data\\DataHelper.cs",
+              "RelativeToolTip": "ProduccionBack\\Data\\DataHelper.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:06:00.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
