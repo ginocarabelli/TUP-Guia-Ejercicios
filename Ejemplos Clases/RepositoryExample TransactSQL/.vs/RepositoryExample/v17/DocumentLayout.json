@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\budgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\domain\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:domain\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\data\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\data\\productrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\productrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +35,8 @@
       "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:services\\budgetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\data\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\domain\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:domain\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\data\\productrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\productrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\data\\utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:data\\utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86249BDB-91BF-4523-9662-5E5234B2D10C}|RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample transactsql\\repositoryexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -66,23 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BudgetManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Services\\BudgetManager.cs",
-              "RelativeDocumentMoniker": "Services\\BudgetManager.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Services\\BudgetManager.cs",
-              "RelativeToolTip": "Services\\BudgetManager.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T20:00:54.766Z"
             },
             {
               "$type": "Document",
@@ -92,14 +80,88 @@
               "RelativeDocumentMoniker": "Data\\BudgetRepository.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\BudgetRepository.cs",
               "RelativeToolTip": "Data\\BudgetRepository.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAiwEkAAAA3AAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAewFgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:25:09.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\ProductRepositoryADO.cs",
+              "RelativeDocumentMoniker": "Data\\ProductRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\ProductRepositoryADO.cs",
+              "RelativeToolTip": "Data\\ProductRepositoryADO.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:48:37.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:28:36.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Domain\\Budget.cs",
+              "RelativeDocumentMoniker": "Domain\\Budget.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Domain\\Budget.cs",
+              "RelativeToolTip": "Domain\\Budget.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA6wBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:15:56.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BudgetManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Services\\BudgetManager.cs",
+              "RelativeDocumentMoniker": "Services\\BudgetManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Services\\BudgetManager.cs",
+              "RelativeToolTip": "Services\\BudgetManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:00:54.766Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwFcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T19:45:22.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T20:24:11.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IBudgetRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\IBudgetRepository.cs",
               "RelativeDocumentMoniker": "Data\\IBudgetRepository.cs",
@@ -111,32 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductRepositoryADO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\ProductRepositoryADO.cs",
-              "RelativeDocumentMoniker": "Data\\ProductRepositoryADO.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\ProductRepositoryADO.cs",
-              "RelativeToolTip": "Data\\ProductRepositoryADO.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:48:37.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:28:36.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Services\\ProductManager.cs",
               "RelativeDocumentMoniker": "Services\\ProductManager.cs",
@@ -148,19 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataHelper.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\Utils\\DataHelper.cs",
-              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\Utils\\DataHelper.cs",
-              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T19:45:22.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Data\\IProductRepository.cs",
@@ -172,19 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Budget.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Domain\\Budget.cs",
-              "RelativeDocumentMoniker": "Domain\\Budget.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Domain\\Budget.cs",
-              "RelativeToolTip": "Domain\\Budget.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T17:15:56.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DetailBudget.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Domain\\DetailBudget.cs",
               "RelativeDocumentMoniker": "Domain\\DetailBudget.cs",
@@ -196,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ParameterSQL.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Data\\Utils\\ParameterSQL.cs",
               "RelativeDocumentMoniker": "Data\\Utils\\ParameterSQL.cs",
@@ -228,17 +241,6 @@
               "RelativeToolTip": "RepositoryExample.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-23T20:24:07.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample TransactSQL\\Properties\\Resources.resx",
-              "RelativeToolTip": "Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-08-23T20:24:11.692Z"
             }
           ]
         }
