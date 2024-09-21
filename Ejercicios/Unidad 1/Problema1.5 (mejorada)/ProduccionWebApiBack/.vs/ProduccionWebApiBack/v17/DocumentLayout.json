@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\repositories\\implementations\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\implementations\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\repositories\\implementations\\invoicedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\implementations\\invoicedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\repositories\\implementations\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\implementations\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\services\\billsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\services\\billsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\repositories\\implementations\\paymentformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\implementations\\paymentformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\services\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\services\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\entities\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\entities\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\services\\invoicedetailsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\services\\invoicedetailsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF73EC49-9F2A-4682-9180-F9AC284A3924}|ProduccionWebApi\\ProduccionWebApi.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionwebapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF73EC49-9F2A-4682-9180-F9AC284A3924}|ProduccionWebApi\\ProduccionWebApi.csproj|solutionrelative:produccionwebapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\services\\paymentformsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\services\\paymentformsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\repositories\\contracts\\ipaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\contracts\\ipaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\repositories\\contracts\\ibillsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\contracts\\ibillsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\repositories\\contracts\\ibilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\contracts\\ibilldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\repositories\\contracts\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\repositories\\contracts\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\entities\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\entities\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejercicios\\unidad 1\\problema1.5 (mejorada)\\produccionwebapiback\\produccionback\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F152B92D-44F9-403C-9C9E-D898ED706B03}|ProduccionBack\\ProduccionBack.csproj|solutionrelative:produccionback\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceDetailsManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Services\\InvoiceDetailsManager.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Services\\InvoiceDetailsManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Services\\InvoiceDetailsManager.cs",
+              "RelativeToolTip": "ProduccionBack\\Services\\InvoiceDetailsManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:51.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillsManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Services\\BillsManager.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Services\\BillsManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Services\\BillsManager.cs",
+              "RelativeToolTip": "ProduccionBack\\Services\\BillsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:47.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticleManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Services\\ArticleManager.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Services\\ArticleManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Services\\ArticleManager.cs",
+              "RelativeToolTip": "ProduccionBack\\Services\\ArticleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:42.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentFormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Implementations\\PaymentFormRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Implementations\\PaymentFormRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Implementations\\PaymentFormRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Implementations\\PaymentFormRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwB8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:35.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Implementations\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Implementations\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Implementations\\ArticleRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Implementations\\ArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:20.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Implementations\\InvoiceDetailRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Implementations\\InvoiceDetailRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Implementations\\InvoiceDetailRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Implementations\\InvoiceDetailRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:30.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Implementations\\BillsRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Implementations\\BillsRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Implementations\\BillsRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Implementations\\BillsRepository.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwF0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Entities\\Invoice.cs",
+              "RelativeToolTip": "ProduccionBack\\Entities\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:37:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Entities\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Entities\\InvoiceDetail.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Entities\\InvoiceDetail.cs",
+              "RelativeToolTip": "ProduccionBack\\Entities\\InvoiceDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:01.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "ProduccionBack\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAcwFsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:39:04.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentFormsManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Services\\PaymentFormsManager.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Services\\PaymentFormsManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Services\\PaymentFormsManager.cs",
+              "RelativeToolTip": "ProduccionBack\\Services\\PaymentFormsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:54.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionWebApi\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "ProduccionWebApi\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionWebApi\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "ProduccionWebApi\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:50:33.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Contracts\\IPaymentForm.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Contracts\\IPaymentForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Contracts\\IPaymentForm.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Contracts\\IPaymentForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:16.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBillsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Contracts\\IBillsRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Contracts\\IBillsRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Contracts\\IBillsRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Contracts\\IBillsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:13.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBillDetail.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Contracts\\IBillDetail.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Contracts\\IBillDetail.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Contracts\\IBillDetail.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Contracts\\IBillDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:11.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Contracts\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Repositories\\Contracts\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Repositories\\Contracts\\IArticleRepository.cs",
+              "RelativeToolTip": "ProduccionBack\\Repositories\\Contracts\\IArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:07.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Entities\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Entities\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Entities\\PaymentForm.cs",
+              "RelativeToolTip": "ProduccionBack\\Entities\\PaymentForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:03.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "ProduccionBack\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 1\\Problema1.5 (mejorada)\\ProduccionWebApiBack\\ProduccionBack\\Entities\\Article.cs",
+              "RelativeToolTip": "ProduccionBack\\Entities\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:37:38.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

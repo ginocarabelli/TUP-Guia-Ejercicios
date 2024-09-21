@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D01EB2D7-7177-457C-9B81-E63A482E34BC}|ProduccionWebApi.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\api modelo v1\\produccionwebapi\\controllers\\ordenproduccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01EB2D7-7177-457C-9B81-E63A482E34BC}|ProduccionWebApi.csproj|solutionrelative:controllers\\ordenproduccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\api modelo v1\\produccionback\\services\\produccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\api modelo v1\\produccionback\\data\\iordenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\api modelo v1\\produccionback\\services\\iproduccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\api modelo v1\\produccionback\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564695C9-C8D4-490A-A2D6-F9BF1CE4797C}|..\\ProduccionBack\\ProduccionBack.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\api modelo v1\\produccionback\\data\\ordenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdenProduccionController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionWebApi\\Controllers\\OrdenProduccionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdenProduccionController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionWebApi\\Controllers\\OrdenProduccionController.cs",
+              "RelativeToolTip": "Controllers\\OrdenProduccionController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:33:48.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrdenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Data\\IOrdenRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Data\\IOrdenRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Data\\IOrdenRepository.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Data\\IOrdenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:40:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProduccionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Services\\ProduccionService.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Services\\ProduccionService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Services\\ProduccionService.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Services\\ProduccionService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:50:00.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Data\\DBHelper.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Data\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Data\\DBHelper.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Data\\DBHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:37:52.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProduccionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Services\\IProduccionService.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Services\\IProduccionService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Services\\IProduccionService.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Services\\IProduccionService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:49:45.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\API Modelo V1\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "RelativeToolTip": "..\\ProduccionBack\\Data\\OrdenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:40:32.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

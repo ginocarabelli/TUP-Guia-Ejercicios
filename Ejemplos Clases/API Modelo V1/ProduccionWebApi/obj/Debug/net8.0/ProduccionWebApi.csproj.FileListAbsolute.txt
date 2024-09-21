@@ -1,0 +1,121 @@
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.AssemblyInfoInputs.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.AssemblyInfo.cs
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\appsettings.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.exe
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.deps.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.runtimeconfig.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\ProduccionBack.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\bin\Debug\net8.0\ProduccionBack.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.ProduccionWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProduccionWebApi.props
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProduccionWebApi.props
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProduccionWebApi.props
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\scopedcss\bundle\ProduccionWebApi.styles.css
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\Producci.E1D576F6.Up2Date
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\refint\ProduccionWebApi.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.genruntimeconfig.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ref\ProduccionWebApi.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\appsettings.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.exe
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.deps.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.runtimeconfig.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\ProduccionBack.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\bin\Debug\net8.0\ProduccionBack.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.AssemblyInfoInputs.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.AssemblyInfo.cs
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.ProduccionWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProduccionWebApi.props
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProduccionWebApi.props
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProduccionWebApi.props
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\scopedcss\bundle\ProduccionWebApi.styles.css
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\Producci.E1D576F6.Up2Date
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\refint\ProduccionWebApi.dll
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.pdb
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.genruntimeconfig.cache
+D:\UTN\TUP PROG II\2024\Material\Semana 05\API modelo\ProduccionWebApi\obj\Debug\net8.0\ref\ProduccionWebApi.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.exe
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.deps.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.runtimeconfig.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\ProduccionWebApi.pdb
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\ProduccionBack.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\bin\Debug\net8.0\ProduccionBack.pdb
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.AssemblyInfo.cs
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.sourcelink.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.ProduccionWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProduccionWebApi.props
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProduccionWebApi.props
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProduccionWebApi.props
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\scopedcss\bundle\ProduccionWebApi.styles.css
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\Producci.E1D576F6.Up2Date
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\refint\ProduccionWebApi.dll
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.pdb
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ProduccionWebApi.genruntimeconfig.cache
+C:\Users\User\Desktop\Trabajos TUP\TUP-Guia-Ejercicios\Ejemplos Clases\API Modelo V1\ProduccionWebApi\obj\Debug\net8.0\ref\ProduccionWebApi.dll
