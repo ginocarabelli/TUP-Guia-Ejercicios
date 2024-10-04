@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejemplos clases\\clase24-09\\efwebapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejemplos clases\\clase24-09\\efwebapi\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejemplos clases\\clase24-09\\efwebapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejemplos clases\\clase24-09\\efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejemplos clases\\clase24-09\\efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejemplos clases\\clase24-09\\efwebapi\\efwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30C4E1DE-EBD8-4E0C-9A4B-38DABABEAD01}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\efwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\Program.cs",
+              "RelativeToolTip": "EFWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:58:52.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EFWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\appsettings.json",
+              "RelativeToolTip": "EFWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T17:54:47.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "EFWebApi\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:09:21.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "EFWebApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:04:08.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\Models\\Rol.cs",
+              "RelativeToolTip": "EFWebApi\\Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:03:10.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFWebApi",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\EFWebApi.csproj",
+              "RelativeDocumentMoniker": "EFWebApi\\EFWebApi.csproj",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase24-09\\EFWebApi\\EFWebApi.csproj",
+              "RelativeToolTip": "EFWebApi\\EFWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T16:59:56.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

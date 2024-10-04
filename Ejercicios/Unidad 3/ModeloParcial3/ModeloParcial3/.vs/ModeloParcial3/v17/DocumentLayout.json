@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 3\\modeloparcial3\\modeloparcial3\\efwebapi\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 3\\modeloparcial3\\modeloparcial3\\efwebapi\\services\\enviosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\services\\enviosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 3\\modeloparcial3\\modeloparcial3\\efwebapi\\repositories\\enviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\repositories\\enviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 3\\modeloparcial3\\modeloparcial3\\efwebapi\\services\\ienviosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\services\\ienviosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 3\\modeloparcial3\\modeloparcial3\\efwebapi\\repositories\\ienviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\repositories\\ienviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 3\\modeloparcial3\\modeloparcial3\\efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 3\\modeloparcial3\\modeloparcial3\\efwebapi\\models\\tempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\models\\tempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 3\\modeloparcial3\\modeloparcial3\\efwebapi\\models\\db_envioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\models\\db_envioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|c:\\users\\maria\\onedrive\\escritorio\\facu gino\\tup-guia-ejercicios\\ejercicios\\unidad 3\\modeloparcial3\\modeloparcial3\\efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CCDA3CA-8AFB-44CF-9D4D-8319EC8189AB}|EFWebAPI\\EFWebAPI.csproj|solutionrelative:efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Models\\TEmpresa.cs",
+              "RelativeDocumentMoniker": "EFWebAPI\\Models\\TEmpresa.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Models\\TEmpresa.cs",
+              "RelativeToolTip": "EFWebAPI\\Models\\TEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:26:44.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEnviosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Repositories\\IEnviosRepository.cs",
+              "RelativeDocumentMoniker": "EFWebAPI\\Repositories\\IEnviosRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Repositories\\IEnviosRepository.cs",
+              "RelativeToolTip": "EFWebAPI\\Repositories\\IEnviosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:18:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnviosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Repositories\\EnviosRepository.cs",
+              "RelativeDocumentMoniker": "EFWebAPI\\Repositories\\EnviosRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Repositories\\EnviosRepository.cs",
+              "RelativeToolTip": "EFWebAPI\\Repositories\\EnviosRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:17:44.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnviosService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Services\\IEnviosService.cs",
+              "RelativeDocumentMoniker": "EFWebAPI\\Services\\IEnviosService.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Services\\IEnviosService.cs",
+              "RelativeToolTip": "EFWebAPI\\Services\\IEnviosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:15:42.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnviosController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Controllers\\EnviosController.cs",
+              "RelativeDocumentMoniker": "EFWebAPI\\Controllers\\EnviosController.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Controllers\\EnviosController.cs",
+              "RelativeToolTip": "EFWebAPI\\Controllers\\EnviosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:12:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnviosService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Services\\EnviosService.cs",
+              "RelativeDocumentMoniker": "EFWebAPI\\Services\\EnviosService.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Services\\EnviosService.cs",
+              "RelativeToolTip": "EFWebAPI\\Services\\EnviosService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:13:59.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EFWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Program.cs",
+              "RelativeToolTip": "EFWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:43:30.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "db_enviosContext.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Models\\db_enviosContext.cs",
+              "RelativeDocumentMoniker": "EFWebAPI\\Models\\db_enviosContext.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\Models\\db_enviosContext.cs",
+              "RelativeToolTip": "EFWebAPI\\Models\\db_enviosContext.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:24:56.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EFWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejercicios\\Unidad 3\\ModeloParcial3\\ModeloParcial3\\EFWebAPI\\appsettings.json",
+              "RelativeToolTip": "EFWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T17:16:11.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
