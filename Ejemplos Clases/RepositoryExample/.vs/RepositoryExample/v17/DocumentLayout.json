@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{4F4A4F16-5738-4283-B9E4-4C6C9CBFCA75}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F4A4F16-5738-4283-B9E4-4C6C9CBFCA75}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample\\repositoryexample\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4A4F16-5738-4283-B9E4-4C6C9CBFCA75}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F4A4F16-5738-4283-B9E4-4C6C9CBFCA75}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample\\repositoryexample\\data\\productrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F4A4F16-5738-4283-B9E4-4C6C9CBFCA75}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\data\\productrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F4A4F16-5738-4283-B9E4-4C6C9CBFCA75}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample\\repositoryexample\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F4A4F16-5738-4283-B9E4-4C6C9CBFCA75}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F4A4F16-5738-4283-B9E4-4C6C9CBFCA75}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\repositoryexample\\repositoryexample\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4A4F16-5738-4283-B9E4-4C6C9CBFCA75}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample\\RepositoryExample\\Services\\ProductManager.cs",
               "RelativeDocumentMoniker": "RepositoryExample\\Services\\ProductManager.cs",
@@ -50,25 +50,24 @@
               "RelativeToolTip": "RepositoryExample\\Services\\ProductManager.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:27:47.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:27:47.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample\\RepositoryExample\\Data\\DataHelper.cs",
               "RelativeDocumentMoniker": "RepositoryExample\\Data\\DataHelper.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample\\RepositoryExample\\Data\\DataHelper.cs",
               "RelativeToolTip": "RepositoryExample\\Data\\DataHelper.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowAIAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T19:45:28.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductRepositoryADO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample\\RepositoryExample\\Data\\ProductRepositoryADO.cs",
               "RelativeDocumentMoniker": "RepositoryExample\\Data\\ProductRepositoryADO.cs",
@@ -76,12 +75,11 @@
               "RelativeToolTip": "RepositoryExample\\Data\\ProductRepositoryADO.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAcwCMAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:49:24.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:49:24.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample\\RepositoryExample\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "RepositoryExample\\Domain\\Product.cs",
@@ -89,12 +87,11 @@
               "RelativeToolTip": "RepositoryExample\\Domain\\Product.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:37:40.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:37:40.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\RepositoryExample\\RepositoryExample\\Data\\IProductRepository.cs",
               "RelativeDocumentMoniker": "RepositoryExample\\Data\\IProductRepository.cs",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "RepositoryExample\\Data\\IProductRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:36:45.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:36:45.732Z"
             },
             {
               "$type": "Document",

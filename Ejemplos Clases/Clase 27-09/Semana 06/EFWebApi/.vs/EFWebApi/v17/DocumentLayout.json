@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\efwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:efwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\efwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:efwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\data\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:data\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\data\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:data\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|c:\\users\\martin\\source\\repos\\efwebapi\\efwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{11EF0183-AB3D-4EC8-8B3F-117D5935D8CB}|EFWebApi.csproj|solutionrelative:efwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Controllers\\LibrosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:33:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFWebApi",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\EFWebApi.csproj",
+              "RelativeDocumentMoniker": "EFWebApi.csproj",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\EFWebApi.csproj",
+              "RelativeToolTip": "EFWebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T18:49:38.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ILibroRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:03:52.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Models\\Libro.cs",
+              "RelativeToolTip": "Data\\Models\\Libro.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:58:47.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFWebApi",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\EFWebApi.csproj",
+              "RelativeDocumentMoniker": "EFWebApi.csproj",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\EFWebApi.csproj",
+              "RelativeToolTip": "EFWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T17:44:59.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T18:45:44.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\LibroRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:06:02.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:44:08.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Models\\Autor.cs",
+              "RelativeToolTip": "Data\\Models\\Autor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:57:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibrosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Models\\LibrosDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\LibrosDbContext.cs",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\Data\\Models\\LibrosDbContext.cs",
+              "RelativeToolTip": "Data\\Models\\LibrosDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:56:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EFWebApi.http",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\EFWebApi.http",
+              "RelativeDocumentMoniker": "EFWebApi.http",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\EFWebApi\\EFWebApi.http",
+              "RelativeToolTip": "EFWebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-20T17:49:10.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -52,7 +52,7 @@ FROM facturas
 --Mostrar la siguiente información respecto a la factura nro.: 450: cantidad 
 --total de unidades vendidas, la cantidad de artículos diferentes vendidos y 
 --el importe total. 
-SELECT COUNT(cantidad) 'Cantidad de unidades vendidas', 
+SELECT SUM(cantidad) 'Cantidad de unidades vendidas', 
 COUNT(distinct cod_articulo) 'Cantidad de articulos diferentes vendidos',
 SUM(pre_unitario*cantidad) 'Monto total'
 FROM facturas f

@@ -1,7 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Facu Gino\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\clase20-09\\efwebapi\\data\\models\\db_libroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\models\\db_libroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\clase20-09\\efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\clase20-09\\efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\clase20-09\\efwebapi\\data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|c:\\users\\user\\desktop\\trabajos tup\\tup-guia-ejercicios\\ejemplos clases\\clase20-09\\efwebapi\\data\\repositories\\librorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1169DB25-00B5-4FB0-9961-90D454005038}|EFWebApi\\EFWebApi.csproj|solutionrelative:efwebapi\\data\\repositories\\librorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "db_librosContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Data\\Models\\db_librosContext.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Data\\Models\\db_librosContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Data\\Models\\db_librosContext.cs",
+              "RelativeToolTip": "EFWebApi\\Data\\Models\\db_librosContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:01:20.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibroRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Data\\Repositories\\LibroRepositories.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Data\\Repositories\\LibroRepositories.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Data\\Repositories\\LibroRepositories.cs",
+              "RelativeToolTip": "EFWebApi\\Data\\Repositories\\LibroRepositories.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:41:40.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeToolTip": "EFWebApi\\Data\\Repositories\\ILibroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:38:41.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Program.cs",
+              "RelativeToolTip": "EFWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:33:00.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "EFWebApi\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trabajos TUP\\TUP-Guia-Ejercicios\\Ejemplos Clases\\Clase20-09\\EFWebApi\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "EFWebApi\\Controllers\\LibrosController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwGcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:35:14.249Z",
+              "EditorCaption": ""
             }
           ]
         }

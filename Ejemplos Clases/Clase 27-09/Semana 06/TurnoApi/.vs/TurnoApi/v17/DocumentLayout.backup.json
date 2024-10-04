@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:repositorios\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:controllers\\turnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\repositorios\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:repositorios\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\migrations\\20240925001102_updateproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:migrations\\20240925001102_updateproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:models\\turnosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\migrations\\20240925001026_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:migrations\\20240925001026_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\migrations\\turnosdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:migrations\\turnosdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\migrations\\20240925001102_updateproperties.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:migrations\\20240925001102_updateproperties.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\migrations\\20240925001026_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:migrations\\20240925001026_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\turnoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:turnoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|c:\\users\\fabio\\source\\repos\\turnoapi\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C11938A-A13B-4F71-8794-4C99C90D6DEC}|TurnoApi.csproj|solutionrelative:models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240925001102_UpdateProperties.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\20240925001102_UpdateProperties.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240925001102_UpdateProperties.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\20240925001102_UpdateProperties.cs",
+              "RelativeToolTip": "Migrations\\20240925001102_UpdateProperties.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:11:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TTurno.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Models\\TTurno.cs",
+              "RelativeDocumentMoniker": "Models\\TTurno.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Models\\TTurno.cs",
+              "RelativeToolTip": "Models\\TTurno.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:26:18.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TurnosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Models\\TurnosDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\TurnosDbContext.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Models\\TurnosDbContext.cs",
+              "RelativeToolTip": "Models\\TurnosDbContext.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:12:35.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Services\\TurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\TurnoService.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Services\\TurnoService.cs",
+              "RelativeToolTip": "Services\\TurnoService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:15:44.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnoController.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Controllers\\TurnoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnoController.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Controllers\\TurnoController.cs",
+              "RelativeToolTip": "Controllers\\TurnoController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:18:30.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Repositorios\\TurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\TurnoRepository.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Repositorios\\TurnoRepository.cs",
+              "RelativeToolTip": "Repositorios\\TurnoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:43:10.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:42:32.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:48:26.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240925001026_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\20240925001026_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240925001026_Initial.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\20240925001026_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240925001026_Initial.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:10:26.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITurnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorios\\ITurnoRepository.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Repositorios\\ITurnoRepository.cs",
+              "RelativeToolTip": "Repositorios\\ITurnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:39:33.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITurnoService.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Services\\ITurnoService.cs",
+              "RelativeDocumentMoniker": "Services\\ITurnoService.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Services\\ITurnoService.cs",
+              "RelativeToolTip": "Services\\ITurnoService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:58:48.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T23:32:18.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TurnosDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\TurnosDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\TurnosDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\TurnosDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\TurnosDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:11:33.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240925001102_UpdateProperties.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\20240925001102_UpdateProperties.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240925001102_UpdateProperties.Designer.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\20240925001102_UpdateProperties.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240925001102_UpdateProperties.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:35:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240925001026_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\20240925001026_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240925001026_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Migrations\\20240925001026_Initial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240925001026_Initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:35:32.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TServicio.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Models\\TServicio.cs",
+              "RelativeDocumentMoniker": "Models\\TServicio.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Models\\TServicio.cs",
+              "RelativeToolTip": "Models\\TServicio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:26:09.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TDetallesTurno.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Models\\TDetallesTurno.cs",
+              "RelativeDocumentMoniker": "Models\\TDetallesTurno.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\Models\\TDetallesTurno.cs",
+              "RelativeToolTip": "Models\\TDetallesTurno.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:25:50.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TurnoApi",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\TurnoApi.csproj",
+              "RelativeDocumentMoniker": "TurnoApi.csproj",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\TurnoApi\\TurnoApi.csproj",
+              "RelativeToolTip": "TurnoApi.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T22:48:32.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
